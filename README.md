@@ -1,2 +1,2 @@
 # est_em_acao
-Estatística e 
+Repositório para envio de coisas voltaddas à extensão Estatística em ação
